@@ -3,5 +3,15 @@ package com.projectcourse.courseprofessional.student;
 public enum Gender {
     MALE,
     FEMALE,
-    OTHER
+    LESBIAN,
+    GAY,
+    BISEXUAL,
+    TRANSEXUAL,
+    QUESTIONING,
+    QUEER,
+    INTERSEX,
+    PANSEX,
+    TWOSPIRIT,
+    ANDROGYNOUS,
+    ASEXUAL
 }
